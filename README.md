@@ -1,2 +1,3 @@
-# rohit
-this is my first repository
+# Rohit
+this is my first git repository.
+author-Rohit
